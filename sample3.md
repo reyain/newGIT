@@ -6,7 +6,7 @@
 reyain amadar
 ```
 
--Bullet
-    -Indent
+- Bullet
+    - Indent
 
 `reyain` **senones** *amadar*
